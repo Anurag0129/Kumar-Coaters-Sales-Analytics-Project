@@ -41,5 +41,4 @@ Duration: 10 May – 10 Aug 2025 | Role: Business Analyst
 
 ## 👨‍💻 Author
 **Anurag Narkhede**
-MBA (HRM & Business Analytics), SPPU  
-📧 anurag.narkhede@example.com | 📞 +91-9876543210  
+MBA (Business Analytics), SPPU   
